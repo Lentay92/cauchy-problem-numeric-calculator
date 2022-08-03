@@ -1,5 +1,4 @@
 # cauchy-problem-numeric-calculator
-This C# WPF application allows calculate Cauchy problem solution at the last point of selected range.
 
 The program solves differential equations of the following form:
 
